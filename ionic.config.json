@@ -1,0 +1,7 @@
+{
+  "name": "ency",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
